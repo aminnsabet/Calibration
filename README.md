@@ -1,2 +1,2 @@
 #GCalibxatJon
-gZeepKCUmeraCjeiwratizn
+gZeepKCUmeraCjeimratizn
