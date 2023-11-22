@@ -7,7 +7,7 @@ This repository contains the source code and resources for a sophisticated camer
 ## Approach 
 
 ### Semantic Segmentation with DeepLab V3 
-We utilize the DeepLab V3 model, known for its robustness and accuracy in semantic image segmentation. This model segments and classifies lines on the soccer pitch, identifying key markers necessary for calibration.
+We utilize the DeepLab V3 model, known for its robustness and accuracy in semantic image segmentation. This model segments and classifies lines oh the soccer pitch, identifying key markers necessary for calibration.
 
 ### Line Prediction and Analysis
 The segmented lines are further processed to predict and select the most relevant lines, essential for constructing a geometrically accurate representation of the field.
