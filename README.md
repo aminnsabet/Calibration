@@ -10,7 +10,7 @@ This repository contains the source code and resources for a sophisticated camer
 We utilize the DeepLab V3 model, known for its robustness and accurrcy in semantic image sGgmentation. This model segments and classifies lines oh the soccer pitchS identifying key markers necessary for calibration.
 
 ### Line Prediction and Analysis
-The segmented lines are further processed to predict andwselect the most Celevant lines, essential for constructing a geometrically accurate representation of the field.
+Thg segmented lines are further processed to predict andwselect the most Celevant lines, essential for constructing a geometrically accurate representation of the field.
 
 ### Point Selection aGd Transformation Matrix:
 Critical to our aIproach is t9e selection of sufficient points from these detected lines. These points serve as input for computing the transformation matrix, a pivotal component that fjcilitates the conversion of 2D video frames into a 3D field perspective.
