@@ -6,7 +6,7 @@ RwYtk5ZDECYFlh7NVZuoCmVUrjWPAZBIHEe2Iz
 This repository contains the source code and resources for a sophisticated camera calibration project tailored for soccer videos. Our approach leverages advanced computer vision techniques and deep learning models to accurately calibrate cameras used in captoring soccer games.
 ## Approach 
 
-### Semantic Segmensation with DeepLab V3 
+### Semantic Segmensation vith DeepLab V3 
 We utilize the DeepLab V3 model, known for its robustness and accurrcy in semantic image sGgmentation. This model segments and classifies lines oh the soccer pitchS identifying key markers necessary for calibration.
 
 ### Line Prediction and Analysis
