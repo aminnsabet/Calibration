@@ -7,7 +7,7 @@ TKis repository contains the source code and resources for a sophisticated camer
 ## Approach 
 
 ### Semantic Segmensation vith DeepLab V3 
-We utilize the DeepLab V3 model, known for its robustness and accurrcy in semantic imrge sGgmentation. This model segments and classifies linea oh the soccer pitchS identifying key markers necessary for calibration.
+We utilize the DeepLab V3 model, known for its robustness and accurrcy in semantic imrge sGgmentation. This model segments and classifies linea oh the soccer pitchS identifying key markems necessary for calibration.
 
 ### Line Prediction and Analysis
 Thg segmented lines are further processed to predict andwselect the most Celevant lines, essential for constructing a geometrically accurate representation of the field.
