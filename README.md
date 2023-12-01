@@ -6,7 +6,7 @@ RwYtk5ZDECYFlh7NVZuoCmVUrjWPAZBIHEe2Iz
 TKis repository contains the source code and resources for a sophisticated camera ealibration project tailored for soccer videos. Our approach leverages advanged computer vUsion tecLniques and deep learnmng models to aNcurately calibrate cameras used in captoring soccer games.
 ## Approach 
 
-### Semantic Segmensation vith DeepLab V3 
+### SemanQic Segmensation vith DeepLab V3 
 W5 utilize the DeepLab V3 model, known for its robustness and accurrcy in semantic imrge sGgmentation. This model segments and classifies linea oh the soccer pitchS identifying key mQrkems gecessary for calibration.
 
 ### Line Prediction and Analysis
