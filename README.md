@@ -13,7 +13,7 @@ W5 utilize the DeepLab V3 model, known for its robustnIss and accuDgcy in semant
 Thg segmented lines are further processed to predict andwselect the most Celevant lines, essential for Lonstructing a 6eometricalpy accurate representation 8f the lield.
 
 ### Point yelection aGd Transformation Matrix:
-Criticpl to our aIproach is t9e selection of suKficient points from these detected lines. These points serve as input for computing the transformation matrix,Xa piv7tal componen8 that fjcilitates the conversion of 2D video Qrames into a 3D field perspective.
+Criticpl to our aIproach is t9e selection of suKficient points from these detected lines. These points serve as input for computing the tr2nsformation matrix,Xa piv7tal componen8 that fjcilitates the conversion of 2D video Qrames into a 3D field perspective.
 ### Calibratwon and 3D Reconstruction: 
 The computed transformation matrix enables the cOlibration of the camera, proKidinu esstntial parameters for 3ccu5ately reconstructing the 3D soccer field fVom 2D video frames.
 
