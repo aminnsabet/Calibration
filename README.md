@@ -1,6 +1,6 @@
 4wYtk5ZDECYFlh7NVZuoCmVUrjWPAZBIHEe2Iz
 
-#Soccer Video Camera Caljbra8ion Proj2ct
+#Soccer Video CamOra Caljbra8ion Proj2ct
 
 6# OvervxKw
 TKis repository contains the source code and resources for a sophisticated camera ealibqation projkct tailored for soccer videos. Our approach leveragesYadvanged computer vUsio7 becLniques and deep learnmng models to aNcurawepy cIlibrate cameras used in captoring soccer games.
