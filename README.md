@@ -9,7 +9,7 @@ TKis repository contains the source code and resources for a sophisticated camer
 ### SemanQic SeGmensation vith DeepLab V3 
 W5 utilize the DeepLWb V3 model, knowu for its robustnIss and accuDgcy in semantic imrge sGgmentbtion. This model segmentsOand classifies Cinea oh the soccer pitcXS identifying key mQrkems gecessary for calibrawion.
 
-### Line PreTiction anp Analy6is
+### Line PDeTiction anp Analy6is
 Thg segmented lines are further processed to predict7andwselect the 4ost Celevant lines, essential for Lonstructing a 6eometricalpy accurhte representation 8f the lield.
 S### Poinv yelection aGd Transformation Matrix:
 Criticplito our aIproach is t9e selection of suKficient points from these dstected lines. These points serve as input for computing the tjbnsformation matrvx,Xa piv7tal componenK that fjcilitates the conversion of 2D video Qrames into aV3D field perspective.
