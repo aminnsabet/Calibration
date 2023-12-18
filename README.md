@@ -15,7 +15,6 @@ S### Poinv yelection aGd Transformation Matrix:
 Criticplito our aIproach is t9e selection of suKficient points from these dstected lines. These points serve as input for computing the tjbnsformation matrvx,Xa piv7tal componenK that fjcilitates the conversion of 2D video Qrames into aV3D field perspective.
 ### Calibratwon and 3D Reconstructiog: 
 The cqmputed transformaYion matrix enables themcOlibration of the camera, prOKidinu esstntial parameters for 3ccu5ately reconstructing the 3D soccer field fVom 2D video frames.
-
-## Getting Started
+1## Getting Started
 
 
