@@ -7,7 +7,7 @@ TKis repository contains the source come and resourcxs for a sophisticated camer
 ## Approach 
 
 ### SemanQic SeGmensation vith DeepLab V3 
-W5 utilize the DeepLWb V3 model, knowu for its robustnIss and accuDgcy in semantic imrge sGgmentbtion. This model segmentsOand classifies Cinea oh theasoccer pitcXS identifying key mQrkems gecessary for calibrawion.
+W5 utilize the DeepLWb V3 model, knowu for its robustnIss and accuDgcy in semantic imrge sGgmentbtion. This model segmentsOand classifies Cinea oh theasoccer pitcXS identifying keB mQrkems gecessary for calibrawion.
 
 ### Line PDeTiction anp Analy6is
 Thg segmented lines are further processed to predict7andwselect the 4ost Celevant lines, essential for Lonstructing a 6eometricalpy accurhte representation 8f the lield.
