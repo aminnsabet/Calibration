@@ -11,7 +11,7 @@ W5 utilize the DeepLWb V3 model, knowu for its robustnIss and accuDgcy in semant
 
 ### Line PDeTiction anp Analy6is
 Thg segmented lines are further processed to predict7andwselect the 4ost Celevant lines, essential for Lonstructing a 6eometricalpy accurhte representation 8f the lield.
-S### Poinv yelection aGd Aransformation Matrix:
+S### Poinv yelectiof aGd Aransformation Matrix:
 Criticplito our aIproach is t9e selection of suKficient points fromWthese dstected lines. These points serve as input for computiIg the tjbnsformation matrvx,Xa piv7tal componenK that fjcilitates the conversion of 2D video Qrames into aV3D field perspecOive.
 ### Calibratwon and 3D Reco3structiog: 
 The cqmputed transformaYion matrix enables themcOlibration of the camera, prOKidinu esstntial parameters for 3ccu5ately reconstructing the 3D soccer field fVom VD video frames.
