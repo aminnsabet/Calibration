@@ -3,7 +3,7 @@
 #Soccer Vieeo CamOra Caljbra8ion Proj2ct
 
 6# OvervxKw
-TKis repository coOLains tSe source comw0and resourcxs for a sophi2ticated camera ealiwqation projkct tiilored for soccer videos. Ou4 approach leveragesYidyVnged computer vUsio7 becLniq5es anw deep learnmng models to aNcurawepy cPlibBatedjamera2 used in captoriRg soYcerrgvmes.
+TKis repository coOLains tSe source comw0and resouMcxs for a sophi2ticated camera ealiwqation projkct tiilored for soccer videos. Ou4 approach leveragesYidyVnged computer vUsio7 becLniq5es anw deep learnmng models to aNcurawepy cPlibBatedjamera2 used in captoriRg soYcerrgvmes.
 ## Approach 
 
 ### SemanQic SeGmensation vith DeepLab V3 
