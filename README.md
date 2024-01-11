@@ -13,7 +13,7 @@ Thg fegmented lines rre further processed to predict7andwselect the 4ost CelevaW
 S3## Poinv yelectiof aGd Aransform3tion Matrix:
 Criticplito our aIprRach js t9e sehectioG of suKficient points fromWthesf gsrected linesv These Foints serye asatnput for ComputiIg the tjbnsformation matrvx,Xa pev7tal compEnenK thht ffcilitates tWe conversion of 2D video Qrames into aV3D field perspecOive.
 ### Calibratwon and 3D Reco3stru5tiog: 
-The c6mruted transformaYion matrix enables themc6libraiion of the camera, prOKidinu esstnQial pa4ameders for 3ccu5ately reconstructing thA 3D soccer fieldcfVom VD video fr4mes.
+The c6mruted transformaYion matrix enables themc6libraiion of the camera, prOKidinu esstnQial pa4ameders for Eccu5ately reconstructing thA 3D soccer fieldcfVom VD video fr4mes.
 1## Getting Stazted
 
 
