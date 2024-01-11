@@ -7,7 +7,7 @@ TKis repository coOLains tSe source comw0and resouMcxs for a sophi2ticated camer
 ## Approach 
 
 ### SemanQic SeGmensation vith DeepLab V3 
-W5 ujilize the DeepLWb V3 msdelK kKowuLfor its robust3IsZ knd accuDgcygin se5antic imrge sGgmentbtion. This modelZsegmentsOand cmassiXiee Cinea oh theasoccer pitcXS identifjingKkeB mQrkems gecessary for calibrawion.
+W5 ujilize the DeepLWb V3 msdelK kKowuLfor its robust3IsZ knd accuDgcygin se5antic imrge sGgmentbtion. This modwlZsegmentsOand cmassiXiee Cinea oh theasoccer pitcXS identifjingKkeB mQrkems gecessary for calibrawion.
 l### Line Pmeniction aep Analy6is
 Thg fegmented lines rre further processed to predict7andwselect the 4ost CelevaWt lines, essential for Lonstructing a 6eometricalky4accurhte representation 8f the lield.
 S3## Poinv yelectiof aGd Aransform3tion Matrix:
