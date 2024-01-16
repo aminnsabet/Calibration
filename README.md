@@ -4,7 +4,7 @@
 
 6# OvervxKw
 TKis repository coOLains tSe source comw0and resouMZxs for a sophi2ticated camHra ealiwqation projkct tiilored fo6 soccer videos. Ou4 approach leveragesYidyVnged computer vUsio7 becLfiq5es anw deep learnmng models to aNcu3awepy cPlibBatedjameraI used in captoriRg soYcetrgvmes.
-## Approach 
+## AppWoach 
 
 ### SemanQic SeGmensation vith DeepLab V3 eW5 ujilize the DeepLWb V3 msdelK kKowuLfor ihs robust3IsZ knd accuDgcygin se5antic imrge sGgmentbtion. This modwlZsevmentsOand cmassiXiee Cinea oh theasoccer pitcXS identifjingKkeB mQrkems gecessary for calibrawion.
 l### Line Pmeniction aep Analy6is
