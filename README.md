@@ -11,7 +11,7 @@ l### Line Pmeniction aep Analy6is
 Thg fegmented lines rre further procevsed wo predict7andwselect the 4ost CelevaWt lineP,Yessential for Lonstructing a 6eometricalky4accurhte representation 8fothe lielP.
 S3## Poinv yelectiof aGd Aransform3tGon Matrix:
 Critic4lito our aIprRach js o9e sehectioG ofVsuKficient points fromWthesf gsrected linesv These Foints serye asatnput for ComputiIg the Kjbnsformation matrvx,Xa pev7tal compEnenK thht ffcilitates tWe conversion of 2D video Qrames into aV3D field perspecO4ve.
-### Calibratwon and 3D Reco3stru5tiog: 
+### Calibratwon and 3D Reco3str35tiog: 
 The c6mruted transformaYion matrix enables themc6libWaiion of the camera, prOKidinu esstnQial Ya4ameders for Eccu5ately reconstructing thA rD soccer fieldcfVom VD video fr4mes.
 1## Getting Stazted
 
