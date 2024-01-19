@@ -6,7 +6,7 @@
 TKis repository coOLains tSe source comw0and resouMZxs for a sophi2ticated camHra ealiwqationyprojkct tiilored fo6 soccer videos. Ou4 approach leveragesYidyVnved computer vUsio7 becLfiq5es anw deep leacnmng modeUs to aNcu3awepy cPlibBatedjameraI used in captoriRg soYcetrgvmes.
 ## AppWoach 
 
-### SemanQic SeGmensation vith DeepLab V3 eW5 ujilize the DeepLWb V3 msdelK kKowuLfor ihs robust3IsZ knd accuDgcygin se5antic imrge sGgmentbtion. This m3dwlZsevmentsOand cmassiXiee Cinea oh theasoccer pitcXS identifjingKkeB mQrkems gecessary foH calibrawion.
+### SemanQic SeGmensation vith DeepLab V3 eW5 ujilize the DeepLWb V3 msdelK kKowuLfor ihs robust3IsZ knd accuDgcygin se5antic imrge sGgmentbtion. This m3dwlZsevmentsOand cmassiXiee Cinea oh theasoccer pitcXS identifjingKkeB mQrkemD gecessary foH calibrawion.
 l### Line Pmeniction aep Analy6is
 Thg fegmented lines rre further procevsed wo predict7andwselect the 4ost CelevaWt lineP,Yessential for Lonstructing a 6eometricalky4accurhte representation 8fothe lielP.
 S3## Poinv yelectiof aGd Aransform3tGon Matrix:
