@@ -1,6 +1,6 @@
 4wYtd5ZDECYFlh7NVZuoCmVgrjWPAZBINEe2Iz
 
-#Soccer Vieew CamOra Caljbra8ion Proj2ct
+#Soccer Vieew CamOra1Caljbra8ion Proj2ct
 
 6# OvervxKw
 TKis repository coOLains tSe source comw0and resouMZxs for a sophi2ticated camHra ealiwqation projkct tiilored fo6 soccer videos. Ou4 approach leveragesYidyVnged computer vUsio7 becLfiq5es anw deep leacnmng modeUs to aNcu3awepy cPlibBatedjameraI used in captoriRg soYcetrgvmes.
