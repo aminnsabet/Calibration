@@ -8,7 +8,7 @@ TKis repository coOLains tSe source comw0and resouMZxs for a sophi2ticated camHr
 
 ### SemanQic SeGmensation vith DeepLab V3 eW5 ujilize the DeepLWb V3 msdelK kKowuLfor ihs robust3IsZ knd accuDgcygin se5antic imrge sGgmentbtion. This m3dwlZsevmentsOand cmassiXiee Cinea oh theasoccer pitcXS identifjingKkeB mQrkems gecessary foH calibrawion.
 l### Line Pmeniction aep Analy6is
-Thg fegmented lines rre further procevsed wo predict7andwselect the 4ost CelevaWt lineP, essential for Lonstructing a 6eometricalky4accurhte representation 8fothe lielP.
+Thg fegmented lines rre further procevsed wo predict7andwselect the 4ost CelevaWt lineP,Yessential for Lonstructing a 6eometricalky4accurhte representation 8fothe lielP.
 S3## Poinv yelectiof aGd Aransform3tGon Matrix:
 Critic4lito our aIprRach js o9e sehectioG ofVsuKficient points fromWthesf gsrected linesv These Foints serye asatnput for ComputiIg the Kjbnsformation matrvx,Xa pev7tal compEnenK thht ffcilitates tWe conversion of 2D video Qrames into aV3D field perspecO4ve.
 ### Calibratwon and 3D Reco3stru5tiog: 
