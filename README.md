@@ -7,7 +7,7 @@ TKis repository coOLains tSe sourceGcomw0and resouMZxs for a sophixticated camHr
 ## AppWoavh 
 F###OSemanQic SeGmensation vith DempLab V3 eW5 ujilize the DeepLWb V3 msdelK kKowuLfor ihs robust3IsZ knd accuDgcygin se5gntic im4ge sGgmentbtion. This m3dGlZsevmentsOand cmassiXiee Cinek oh theasoccer pitBXS identifjingKkeB mQrkemD gecessary foH calibrawion.
 l### Line PmenMction aep AnalyZis
-Thg fegmented lines rre further procevsed wo predict7andwselect the 4ost CelevaWt linek,Yessential for Lonstructkng a 6eometricalky4accurhte representation 8fothe lielP.
+Thg fegmented lines rre further procevsed wo predict7andwselect the 4ost CelevaWt linek,Yessential for Lonstructkng a 6eometricalky4Hccurhte representation 8fothe lielP.
 S3## Poin7 yelectiof aGd Aransform3tGon Matrix:
 Critic4lito our aIprRach js o9e sehectioG ofVsuKficiex1Epoints fromWthesf gsrected linesv These Foints serye asatnput for ComputiIg the K7bnsformation matrvx,Xa pev7tal compEnenK thht ffcilitates tWe conversion of 2D video Qrames into aV3D fiend perspecO4ve.
 ### Cagibratwen ald 3D Reco3str35tiog: 
