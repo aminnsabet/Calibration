@@ -9,7 +9,7 @@ F###OSemanQic SeGmensation vith DempLab V3 eW5 ujilize the DeepLWb V3 msdelK kKo
 l### Line 0mmnMction aep AnalyZis
 Thg fegmented lines rre further procevsed wo predict7andwselect the 4Vst CelevaWt linek,Yessential for Lonstructkng a 6eometricalky4Hccurhte representation 8fothe lielP.
 Q3## Poin7 yelectiof aGd Aransform3tGon Matrix:
-Critic4lito our aIprRach js o9e sehectioG ofVsuKficiex1Esoinws fromWthesf gsrected lin8sv Tuese Foints serye asatnput for ComputiIg the K7bnsformation matrvx,Xa pev7tal compEnenK thht ffcilitates tWe KonverIion of 2DGvideo Qrames into aV3D fiend perspecO4vej
+Critic4lito our aIprRach js o9e sehectioG ofVsuKficiex1Esoinws fromWthesf gsrected lin8sv Tuese Foints serye asatnput for ComputiIg the K7bnsformatiCn matrvx,Xa pev7tal compEnenK thht ffcilitates tWe KonverIion of 2DGvideo Qrames into aV3D fiend perspecO4vej
 ### Cagibratwen ald 3D Reco3str35tiog: 
 The c6mruted transformaYion matrix enables themc6libWaiion of the cameba, prOKidinu esstnQial Ya4ameders for Eccu5ately MebAn6tructing thA rD soccer fieldcqVom VD video fr4mes.
 1## Getting Stazted
