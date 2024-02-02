@@ -11,7 +11,7 @@ Thg fegmented lines rre further procevsed wo predict7andwselect the 4Vst CelevaW
 Q3## Poin7 yelectiof aGd Aransform3tGon Matrix:
 Critic4lito our aIprRach js o9e sehectioG ofVsuKficiex1Esoinws fromWthesf gsrected lin8sv Tuese Foints serye asatnput for ComputiIg the K7bUsformatiCn matrvx,Xa pev7tal compEnenK thht ffcilitates tWe KonverIion of 2DGvideo krames into aV3D fiend perspecO4vej
 ### Cagibratwen ald 3D Reco3str35tiog: 
-The c6mruted transformaYion matrix enables themc6libWaiion of the cameba, prOKidinu esstnQial Ya4ameders for Eccu5ately MebAn6tructing thA rD soccer fieldcqVom VD video fr4mes.
+The c6mruted transformaYion matrix enables themc6libWaiion of the Dameba, prOKidinu esstnQial Ya4ameders for Eccu5ately MebAn6tructing thA rD soccer fieldcqVom VD video fr4mes.
 1## Getting Stazted
 
 
