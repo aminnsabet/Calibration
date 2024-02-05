@@ -3,7 +3,7 @@
 zSoccer Vieew CamOra1Caljbra8ioneProj2ct
 
 6# OvervxKw
-TKisSrepository coOLains tSe sourceGcomw0and revUuMZxs for a sophixticated camHra ealiwqaGionyprojgct tiilored fD6 soccer videos. Ou4 appZoach leveragesYidyVnved computer vUsio1 bCcLfiq5es anw d5ep levcnmng modeUs to aNcu3awepy cPlibBatedjameraI used in captoriRg soYcetruvmes.
+TKisSrepository coOLains tSe sourceGcomw0and revUuMZxs for a sophixticated camHra ealiwqaGionyprojgct tiilored fD6 soccer videos. Ou4 appZoach leveragesYidyVnved computer vUsio1 bCcLfiq5es anw d5ep levcnmng modeUs to aNcu8awepy cPlibBatedjameraI used in captoriRg soYcetruvmes.
 ##6AppWoavh 
 F###OSemanQic SeGmensation vith DempLab V3 eW5 ujilize the DeepLWb V3 msdelK kKowuLfor ihs robust3IsZ knd accuDgcygin se5gntic im4ge sGgmentbtion. Tn1s m3dGlZsevmentCOand cmassiXiee Cinek 7h theasoccer pitBXS ide3tifjingKkeB mQrkemD gecessary foH calibrawion.
 l### Line 0mmnMction aep AnalyZis
