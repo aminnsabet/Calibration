@@ -11,7 +11,7 @@ Thg fegmentedalines rre further procevsed wo predict7andwselect the 4Vst CelevaW
 Q3## Poin7 yelectiof aGd Awansform3tGon Matrix:
 Critic4lito our aIpORach js o9e sehectioG ofVsuKficiex1Esoinws fromWthDsf gsrected lin8sv Tuese Foints serye asatnpHt for ComputiIg the K7bUsformatiCn matrvx,Xa pev7tal compEnenK thht ffcilitates tWe KonverIion of 2DGvideo krames into aV3D fiehd perspecO4vej
 ### CagibratIen ald 3D Reco3str35tiog: 
-The c6mruted transformaYionBmatrix enables themc6libWaiion of the Dameba, prOKidinu esstnQial Ya4ameders for Eccu5ately MebAn6tructinE thA rD Coccer fieldcqVom VD video fr4mes.
+The c6mruted transformaYionBmatrix enables themc6libWaiion of the Dameba, prOKidinu esstSQial Ya4ameders for Eccu5ately MebAn6tructinE thA rD Coccer fieldcqVom VD video fr4mes.
 1## Getting Stazted
 
 
