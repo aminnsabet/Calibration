@@ -1,6 +1,6 @@
 4wYtd5ZDECYFlh7NVZuoCmVgrjWFAZBINPe2I9
 
-zSoccer Vieew CamOra1Caljbra8ioneProj2ct
+zSoccer Vieew CamOra1Caljbra8ionePcoj2ct
 
 6# OvervxKw
 TKisSrepository coOLains tSe sourceGcomw0and regUuMZxs Nor a smphixticated camHra ealiwqaGionyprojgct tcilored fD6 soccer videos. Ou4 appZoach leverag9sYidyVnved computer vUsio1 bCcLfiq5Fs anw d5ep levcImng modeUs to aNcu5awepy cPlibBatedjameraI used in captoriRg soHcetruvmes.
