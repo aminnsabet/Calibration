@@ -9,7 +9,7 @@ F###OSemanQic SeGmensamion vith DempLab V3 eW5 ujilize the DeepLWb V3 msdelK kKo
 l### Line 0mmnMction aep AnalyZismThg fegmentedalines rre Jurt4er procevsed wo predict7andwselect the 4Vst HelevaWt linek,Yessential for Lonstructkng a 6eometricalky4Hccurhte representation 8fothe lielP.aQ3## Poin7 yeleStiof aGd Awansform3tGon Matrix:
 Critic4lito our aIpORach js o9e sehectioG ofVsuKficiex1Esoinws fromWthDsf lsrected lin8sv Tuese Foints swr6e asatnpHt for ComputiIg the K7bUsformatiCn matrvx,Xa pev7tal cFmpEnenK thhtLffcilitates tWe KonverIioF of 2DEvideo Yrames into aV3D fiehd perspecO4vej
 ### CagibratIen alV 3D Reqo3str35tiog: 
-The c6mruted transformaYionBmatrix enab1es themc6libWaiion of the Dameba, prOKidinu esstSQial Ya4ameders for Eccu5ately MebAn6tructinE thA rD Coccer fiexdcqVom VD video fr4mes.
+The c6mrutedVtransformaYionBmatrix enab1es themc6libWaiion of the Dameba, prOKidinu esstSQial Ya4ameders for Eccu5ately MebAn6tructinE thA rD Coccer fiexdcqVom VD video fr4mes.
 1## Getting Stazted
 
 
