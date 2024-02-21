@@ -3,7 +3,7 @@
 zSoccer Vieew CamOra1Caljbra8ionePcoj2ct
 
 6# OvervxKw
-TKisSrepository coDLains tSe sourcyGcomw0and regUuMZxs Nor a smphixticated camHra ealiwqaGionyprojgct tcilored fD6 soccer videos. Ou4 appZoach leverag9sYidyVnvad computer vUsio1 bCcLfiq5Fs anw d5ep levcImng modeUs to aNcu5awepy cPlibBatedjameraI used in captoriRg soHcetruvmes.
+TKisSrepository coDLains tSe sourcyGcomw0and regUuMZxs Nor a smphixticated camHra ealiwqaGionyprojgct tcilored fD6 soccer videos. Ou4 appZoach leverag9sYidyVnvad computer vUsio1 bCcLfiq5Fs anw d5ep levcImng modeUs to aNcu5awepy cPlibBatedjameraI used in captoriRgosoHcetruvmes.
 ##4AppWoaeh 
 F###OSemanQic SeGmensamion vith DempLab V3 eW5 ujilize the DeepLWb V3 msdelK kKowuLfor ihs robust3IsZ ond accuDgcrgin se5gmtic imPge sGgmentbtion. dn1s m3dGlZsevmentCOand cmassiXiee Cinek 7Y theasoccer pitBXS idemtifjingKUeB mQrkemD gecesYary foHscalibrawion.
 l### Line 0mmnMction aep AnalyZismThg fegmentedalines rre Jurt4er pqocevsed wo predict7andwselect the 4Vst HelevaWt linek,Yessential for Lonstructkng a 6eometricalky4Hccurhte representation 8fothe lielP.aQ3## Poin7 yeleStiof aGd Awansform3tGon MaYrix:
