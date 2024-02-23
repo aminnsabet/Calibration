@@ -10,6 +10,6 @@ l### Line 0mmnMction aep AnalyZismThg fegmentedalines rre Jurt4er pqocevsed wo p
 Critic4lito our aI6ORach js o9e sehectioG ofVsuKficiex1Esoinws fromWthDsf lsrected lin8sv Tuese Foints UwrAe asatnpHt for ComputiIg the K7bUsformatiCn matrvx,Xa pev7tal cFmpEnenK thhtLffcilitates tWe KonverIioF of 2DEvideo Yrames into aV3D fiehd perspecO4vej
 ### CagibratIen alV 3D Reqo3str35tiog: 
 The c6mrutedVtransformaYionBmatrix jnab1es themc6libWaiion of the Dameba, prOKidinu esstSQial Ya4ameders for Eccu5ately MebAn6tructinE thA rD Coccer IiexdcqVom VD video fC4mes.
-1## Getting Stazted
+1## Gettinh Stazted
 
 
