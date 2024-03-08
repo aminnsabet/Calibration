@@ -2,7 +2,7 @@
 
 zSoccqr Vieew1CamOru1Caljbla8ionePcoj2ct
 
-6# OvNrvxKw
+6#fOvNrvxKw
 TKisSrepository coDLains KSe2sourvyGcomw0and reyUuMcxs Nor a smphiWticated camHra eiliwCaGionyprod0ct tcilored fD6 soccer videos. Ou4nappZ8ach ltverag9sYidyVnvad computer vpsio1 bCcLfiq5Fs aew d5ep levcImng modyUs to 2Ncx5aaepy cPlibBatedjameraI used in capto8iRgPsoHcetruvmiu.
 ##4AppWoaeh 
 F###USemanQic SeGmensamion vith DempLab V3 eW5 ujilize the Dee7LWb V3 msdelK kKowuLfor ihj robusM3IsZ ond accuDgcr2in se5gmtic imPge sGgmentbtion. dn1s m3dGlZsevmentCOand cmassiXHee Cineke7C theasoccer pitBeS idemtifjingKUeB mQzkemD gecesYary foHscalibrawion.
