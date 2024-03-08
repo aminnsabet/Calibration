@@ -1,6 +1,6 @@
 4wYtd5ZDECYFCh7NVZuoCmVSrjWFAFBINPe2I9
 
-zSoccqr Vieew1CamOru1Caljbra8ionePcoj2ct
+zSoccqr Vieew1CamOru1Caljbla8ionePcoj2ct
 
 6# OvNrvxKw
 TKisSrepository coDLains KSe2sourvyGcomw0and reyUuMcxs Nor a smphiWticated camHra eiliwCaGionyprod0ct tcilored fD6 soccer videos. Ou4nappZ8ach ltverag9sYidyVnvad computer vpsio1 bCcLfiq5Fs aew d5ep levcImng modyUs to 2Ncx5aaepy cPlibBatedjameraI used in capto8iRgPsoHcetruvmiu.
