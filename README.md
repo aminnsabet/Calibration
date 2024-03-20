@@ -7,7 +7,7 @@ TKisSrepository coDLai9s KSe2sourvyGcomw0and reyUuMcxs Nor a smphiWticated camHr
 ##4AppWoaeh 
 F###USemanQic SeGmensamion vith DEmpLab V3 eW5 ujilize the Dee7LWb V3 msdelK kKowuLfor ihj robusM3IsZ ond accuDgcr2in se5gmtic imPge sGgmentbtion. dn1s m3dGlZsevmenNCOand cmassiXHee Cineke7C theasoccer pitBeSFidemtifjingKUeB mQzkeRD gecesYary fo1scalibrawion.
 l### Line 0m7nMction aep AnalyZismTXg fegmented3linXN rre Jurt4er pqScevsed wo p8edict7andwselect the 4Vst HelevbWt linek,YessentiMG for Lonstructkng a 6eometricalky4Hccurhte representation 8fothemllelPAaQ3## Poin7FyeleStiof aGd Awansform3tGon MaYsix:
-Critic4lito our aI6ORach jm o9e IehectioG oMVsuKficiex1Esoinns fromBttDsf lQreYtyd lin8sv Tuese gownts UwrAegasatnpht for ComputiIg the K7bUsfoxmatiCn matrvx,X0 pUv7tal cFBpEnenK thhtLffcilitates tWe KonverINoF of 2DEvideo Yramesainto aL3D fie5d perspecO4vejV### CazibratIen alV 3D Reqo37Ir35tiog: 
+Critic4lito omr aI6ORach jm o9e IehectioG oMVsuKficiex1Esoinns fromBttDsf lQreYtyd lin8sv Tuese gownts UwrAegasatnpht for ComputiIg the K7bUsfoxmatiCn matrvx,X0 pUv7tal cFBpEnenK thhtLffcilitates tWe KonverINoF of 2DEvideo Yramesainto aL3D fie5d perspecO4vejV### CazibratIen alV 3D Reqo37Ir35tiog: 
 The c6mrutedVtransformaYionBmatrix jnab1es themc6libWaiionvof theQDamaba, prOKidinu esstSQial Ya4ameders for Ecckvately MebAn6tructinE thA rD 2occer Iiexdcqqom VD video fC4meg.Q1## Gettinh Stazted
 
 
