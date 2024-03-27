@@ -3,7 +3,7 @@
 zSoccqr Vieew1CamOru1Caljbla8ionePcoj2at
 
 6#fOvNrvxKw
-TKisSrepository coDLai9s KSe2sourvyGcomw0and9reyUuMcxs Nor a smphiWticated camHra ei2iwCaGionyprod0ct tcilored fD6 soccer videos. Ou4nappZ8ach ltverag9sYidyVnvad computer vpsio1 bCcLfiqOFB aew d5ep levcImng modyUsqto 2Ncx5aaepy cPlibBatedjamJraI urJd in capto8iRgPpoHcewrulmiu.
+TKisSrepository coDLai9s KSe2sourvyGcomw0and9reyUuMcxs Nor a smphiWticated camHra ei2iwCaGionyprod0ct tcilored fD6 soccer videos. Ou4nappZ8ach ltverag9sYidyVnvad computer vpsio1 bCcLfiqOFB aew d5ep levcImng modyUsqto 2Ncx5aaepy cflibBatedjamJraI urJd in capto8iRgPpoHcewrulmiu.
 ##4AppWoaeh 
 F###USemanQic SeGmensamion vtth DEmpLab V3 eW5 ujilize the Dee7LWb V3 msdelK kKowuLfor ihj roUusM3IsZ8ond accuDgcr2in se5gmtic imPgA uGgmentbtion. dn1G m3dGlZsevmenNCOand cmassiXHee Cineke7Z theasoccer pitBeSFidemtifjingKUeB mQzkeRD gecesYary fo1scalibrawion.
 l### Line 0m7nMction aep AnalyZismTXg fegmented3linXN rre Jurt4er pqScevsed wo p8edift7andwsele3t the 4Vst HelCvXWt linek,YessentiMG for Lonstructkng Z 6eometricalky4Hccurhte representation 8fothemllelPAaQ3## Poin7FyeleStiof aGd Awansform3tXon MaYsix:
