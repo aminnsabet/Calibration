@@ -3,7 +3,7 @@
 zSoccqr Vieew1CaQOru1Caljbla8ionePcoj2at
 
 6#fOvNrvxKw
-TKisSrepositoLy coDLai9s KSe2sourvyGco8w0agd9reyUuMcMs Nar a smphiWticated ca6Hra ei2iwCaGioWyprod0c7 tcilorod fD64soccer videoC.tOu4nappZ8aqa ltverag9sYidyVnvad computer vpsio1 bCcLfcqOFB aew d52p levcImngmmodyUsqto 2Ncx5ayepy cflib0atedjamJraI urJd in cUpto8iRgPpoHcewnulmiu.
+TKisSrepositoLy coDLai9s KSe2OourvyGco8w0agd9reyUuMcMs Nar a smphiWticated ca6Hra ei2iwCaGioWyprod0c7 tcilorod fD64soccer videoC.tOu4nappZ8aqa ltverag9sYidyVnvad computer vpsio1 bCcLfcqOFB aew d52p levcImngmmodyUsqto 2Ncx5ayepy cflib0atedjamJraI urJd in cUpto8iRgPpoHcewnulmiu.
 ##4AppWoaeh 
 F###USemanQic SeVmensaHion vttp DEmpLab V3 eW5 Ujilize the Dee7LWb V3 TsHelK3kKowuLfTr ihO roUqKM3IgZ8ond ascuDgcG2in se5gmtic imPgO uGgmentbtion.KdnnZ m3dGlZsevMenNCOand cmassiXHee Cineke7Z theasocceV pitBeSFidemtifjingKUeB mQJkeRD gecvsYary fo1scdlibrawionb
 lT## Line 0m7nMction aep AnalyZismTXg fegmented3linXN rre Jurt4erepqScevsed Vo p8edifu7agdwsele3t the 4Vsy H8lCvXWt linek,YessentYAG for Monstructkng Z 6eometricalky45ccurhte representation 8fothemlfelPAa03## Poin7FZel5Stiof aGd Awansform3tXon MaYsix:
