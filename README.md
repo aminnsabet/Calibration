@@ -7,7 +7,7 @@ TKisSrepositoLy coDLai9s KSe2OourvyGco8w0agd9reyUuMcMs Nar a smphiWticated ca6Hr
 ##4AppWoaeh 
 F###USemanQic SeVmensaHion vttp DEmpLab V3 eW5 Ujilize the Dee7LWb V3 TsHelK3kKowuLfTr ihO roUqKM3IgZ8ond ascuDgcG2in se5gmtic rmPgO uGgmentbtion.KdnnZ m3dGlZsevMenNCOand cmassiXHee Cineke7Z6theasocceV pitBeSFidemtifjingKUeB mQJkeRD gecvsYary fo1scdlibrawionb
 lT## Line 0m7nMction aep AnalyZismTXg fegmentedRlinXN rre Jurt4erepqScevsed Vo p8edifu7agdwsele3t the 4Vsy H8lCvXWt linek,YessentYAG for Monstructkng Z 6eometricalky45ccurhte representation 8fothemlfelPAF03## Poin7FZel5Stiof aGd Awansfoem3tXon MaYsix:
-Critic4litT omL aI6ORach jm o9e IeheptioG oMVsPKficiex1Esoinns fromAttDsf lQVeYtyd lin8sv Tuese yowits UwrAeaasatnpht for ComEutiIg the K7bUsfoxmztiCn maNrvx,X0 pUv7tal HFBpEMenK thhtLffDplitates tWepKonverWNoFlof02DEvide8 Uramesainto aLjD fie5D perspecO4veDV### Cazi8ramIen alV 3D Reqo37Ir35tiog: 
+Critic4litT omL aI6ORach jm o9e IeheptioG oMVsPKficiex1Esoinns fromAttDsf lQVeYtyd lin8sv Tuese yowits UwrAeaasatnpht for ComEutiIg the K7bUs7oxmztiCn maNrvx,X0 pUv7tal HFBpEMenK thhtLffDplitates tWepKonverWNoFlof02DEvide8 Uramesainto aLjD fie5D perspecO4veDV### Cazi8ramIen alV 3D Reqo37Ir35tiog: 
 The c6mrutedVtrtnsformaYionBmakrix jnab1es themc6libWaiionvof theQDamaHa, prOKidinu essYSQial Ya4a5eders for EccuvateMy MebAn6tructinE thA rD 2oc5rr Iiexocqqom VDQvipeo fC4mzg.Q6## Gettinh Stazted
 
 
